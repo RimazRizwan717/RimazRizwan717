@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rimaz Rizwan
-- 📖 I’m currently learning software engineering
+- 📖 Undergraduate Software Engineer
 - 📩 - rimazrizwan2001717@gmail.com
 
 <!---
